@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/09-todo-react-xiaohai/static/css/main.31d6cfe0.css",
-    "main.js": "/09-todo-react-xiaohai/static/js/main.a4308357.js",
+    "main.css": "/09-todo-react-xiaohai/static/css/main.b4621bfd.css",
+    "main.js": "/09-todo-react-xiaohai/static/js/main.2db7fc0f.js",
     "index.html": "/09-todo-react-xiaohai/index.html",
-    "main.a4308357.js.map": "/09-todo-react-xiaohai/static/js/main.a4308357.js.map"
+    "main.b4621bfd.css.map": "/09-todo-react-xiaohai/static/css/main.b4621bfd.css.map",
+    "main.2db7fc0f.js.map": "/09-todo-react-xiaohai/static/js/main.2db7fc0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.a4308357.js"
+    "static/css/main.b4621bfd.css",
+    "static/js/main.2db7fc0f.js"
   ]
 }
