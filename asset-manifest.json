@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/09-todo-react-xiaohai/static/css/main.31d6cfe0.css",
+    "main.js": "/09-todo-react-xiaohai/static/js/main.a4308357.js",
+    "index.html": "/09-todo-react-xiaohai/index.html",
+    "main.a4308357.js.map": "/09-todo-react-xiaohai/static/js/main.a4308357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a4308357.js"
+  ]
+}
